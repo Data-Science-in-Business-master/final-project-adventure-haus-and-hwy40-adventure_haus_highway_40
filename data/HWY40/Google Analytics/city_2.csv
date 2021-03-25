@@ -1,0 +1,671 @@
+# ----------------------------------------,,,,,,,,,,
+# All Web Site Data,,,,,,,,,,
+# Client_Info,,,,,,,,,,
+# 20201001-20210320,,,,,,,,,,
+# ----------------------------------------,,,,,,,,,,
+,,,,,,,,,,
+City,Date,Metro,Region,Users,New Users,Sessions,Bounce Rate,Pages / Session,Avg. Session Duration,Transactions
+Tashkent,20210101,(not set),Tashkent Region,1,1,1,100.00%,1,00:00:00,0
+Tashkent,20210106,(not set),Tashkent Region,1,1,2,50.00%,2,00:12:05,0
+Barcelona,20210105,(not set),Anzoategui,1,1,2,100.00%,1,00:00:00,0
+Barcelona,20210115,(not set),Anzoategui,1,0,2,100.00%,1,00:00:00,0
+Barcelona,20210123,(not set),Anzoategui,1,0,1,100.00%,1,00:00:00,0
+Barcelona,20210126,(not set),Anzoategui,1,0,1,100.00%,1,00:00:00,0
+Barquisimeto,20210307,(not set),Lara,1,1,2,50.00%,1.5,00:00:14,0
+Belgrade,20210119,(not set),(not set),1,1,1,100.00%,1,00:00:00,0
+Belgrade,20210214,(not set),(not set),1,0,1,100.00%,1,00:00:00,0
+Belgrade,20210305,(not set),(not set),1,1,1,100.00%,1,00:00:00,0
+Haiphong,20210116,(not set),Haiphong,1,1,2,100.00%,1,00:00:00,0
+Haiphong,20210117,(not set),Haiphong,1,0,1,100.00%,1,00:00:00,0
+Da Nang,20210227,(not set),Da Nang,1,1,1,100.00%,1,00:00:00,0
+Minato City,20210113,JP_KANTO,Tokyo,1,1,2,0.00%,5,00:05:57,1
+Minya,20210222,(not set),Menia Governorate,1,1,1,100.00%,1,00:00:00,0
+Sorokyne,20210305,(not set),Luhansk Oblast,1,1,1,100.00%,1,00:00:00,0
+Nova Vodolaha,20210207,(not set),Kharkiv Oblast,1,1,1,100.00%,1,00:00:00,0
+Rivne,20210303,(not set),Rivne Oblast,1,1,1,100.00%,1,00:00:00,0
+Sudak,20210203,(not set),Crimea,1,1,3,66.67%,1.33,00:00:09,0
+Sudak,20210204,(not set),Crimea,1,0,1,100.00%,1,00:00:00,0
+Sudak,20210206,(not set),Crimea,1,0,1,0.00%,2,00:01:00,0
+Sudak,20210209,(not set),Crimea,1,0,1,100.00%,1,00:00:00,0
+Sudak,20210217,(not set),Crimea,1,0,1,100.00%,1,00:00:00,0
+Yeoju-gun,20210304,(not set),Gyeonggi-do,1,1,1,100.00%,1,00:00:00,0
+Guaruja,20201227,(not set),State of Sao Paulo,1,1,1,100.00%,1,00:00:00,0
+Moradabad,20210210,(not set),Uttar Pradesh,1,1,1,100.00%,1,00:00:00,0
+Secunderabad,20210210,(not set),Telangana,1,1,1,100.00%,1,00:00:00,0
+Caotun Township,20210101,(not set),Taiwan Province,1,1,1,100.00%,1,00:00:00,0
+Phan Thiet,20210110,(not set),Binh Thuan Province,1,1,4,100.00%,1,00:00:00,0
+Boulogne,20210208,(not set),Buenos Aires Province,1,1,1,0.00%,1,00:00:18,0
+Ventabren,20210219,(not set),Provence-Alpes-Cote d'Azur,1,1,1,100.00%,1,00:00:00,0
+Navsari,20201227,(not set),Gujarat,1,1,1,100.00%,1,00:00:00,0
+Arden-Arcade,20210303,Sacramento-Stockton-Modesto CA,California,1,1,1,100.00%,1,00:00:00,0
+Atascocita,20201224,Houston TX,Texas,1,1,1,100.00%,1,00:00:00,0
+Atascocita,20210203,Houston TX,Texas,1,1,1,0.00%,14,00:10:52,2
+Atascocita,20210213,Houston TX,Texas,1,1,1,100.00%,1,00:00:00,0
+Atascocita,20210220,Houston TX,Texas,1,1,1,0.00%,3,00:00:48,0
+Atascocita,20210225,Houston TX,Texas,1,1,2,0.00%,7,00:08:54,2
+Aventura,20210213,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,4,00:01:37,0
+Aventura,20210319,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,5,00:03:04,0
+Bainbridge,20201230,Cleveland-Akron (Canton) OH,Ohio,1,1,1,0.00%,2,00:00:10,0
+Bayonet Point,20210116,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Bayonet Point,20210120,Tampa-St. Petersburg (Sarasota) FL,Florida,1,0,1,100.00%,1,00:00:00,0
+Bayonet Point,20210129,Tampa-St. Petersburg (Sarasota) FL,Florida,1,0,1,100.00%,1,00:00:00,0
+Bayonet Point,20210214,Tampa-St. Petersburg (Sarasota) FL,Florida,1,0,1,100.00%,1,00:00:00,0
+Bear Creek,20210228,Austin TX,Texas,1,1,1,0.00%,5,00:01:03,0
+Beavercreek,20210316,Dayton OH,Ohio,1,1,1,100.00%,1,00:00:00,0
+Beckett Ridge,20210203,Cincinnati OH,Ohio,1,1,1,100.00%,1,00:00:00,0
+Beckett Ridge,20210222,Cincinnati OH,Ohio,1,1,1,100.00%,1,00:00:00,0
+Bee Cave,20210303,Austin TX,Texas,1,1,1,100.00%,1,00:00:00,0
+Beechwood,20210107,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,1,1,100.00%,1,00:00:00,0
+Belle Isle,20210128,Orlando-Daytona Beach-Melbourne FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Bithlo,20210205,Orlando-Daytona Beach-Melbourne FL,Florida,1,1,1,0.00%,4,00:01:56,0
+Bithlo,20210319,Orlando-Daytona Beach-Melbourne FL,Florida,1,1,1,0.00%,2,00:00:05,0
+Blackhawk,20201223,San Francisco-Oakland-San Jose CA,California,1,1,1,100.00%,1,00:00:00,0
+Blackhawk,20210109,San Francisco-Oakland-San Jose CA,California,1,1,1,100.00%,1,00:00:00,0
+Blackhawk,20210110,San Francisco-Oakland-San Jose CA,California,1,0,1,100.00%,1,00:00:00,0
+Blackhawk,20210209,San Francisco-Oakland-San Jose CA,California,1,1,1,0.00%,12,00:35:52,2
+Bloomfield Township,20210123,Detroit MI,Michigan,1,1,1,100.00%,1,00:00:00,0
+Bloomfield Township,20210131,Detroit MI,Michigan,1,1,1,100.00%,1,00:00:00,0
+Bloomfield Township,20210218,Detroit MI,Michigan,1,1,1,0.00%,3,00:00:50,0
+Bloomfield Township,20210228,Detroit MI,Michigan,1,1,1,100.00%,1,00:00:00,0
+Bloomfield Township,20210303,Detroit MI,Michigan,1,1,1,100.00%,1,00:00:00,0
+Bloomfield Township,20210308,Detroit MI,Michigan,1,1,1,100.00%,1,00:00:00,0
+Bloomfield Township,20210311,Detroit MI,Michigan,1,1,1,0.00%,4,00:01:38,0
+Bloomfield Township,20210318,Detroit MI,Michigan,1,1,1,0.00%,7,00:09:13,0
+Bloomington,20210209,Minneapolis-St. Paul MN,Minnesota,1,1,1,100.00%,1,00:00:00,0
+Bluffdale,20210126,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Bluffdale,20210224,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Boca Del Mar,20210117,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,0.00%,8,00:01:53,0
+Boca Del Mar,20210309,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,0.00%,11,00:10:54,0
+Bordentown,20210130,Philadelphia PA,New Jersey,1,1,1,0.00%,9,00:06:31,0
+Boxford,20210315,Boston MA-Manchester NH,Massachusetts,1,1,1,0.00%,2,00:00:07,0
+Brambleton,20210313,Washington DC (Hagerstown MD),Virginia,1,1,1,100.00%,1,00:00:00,0
+Branchburg,20210215,"New York, NY",New Jersey,1,1,1,0.00%,2,00:00:13,0
+Brewster,20210124,Boston MA-Manchester NH,Massachusetts,1,1,1,100.00%,1,00:00:00,0
+Brookhaven,20210124,Atlanta GA,Georgia,1,1,1,0.00%,3,00:01:35,0
+Brookhaven,20210218,Atlanta GA,Georgia,1,1,2,50.00%,5,00:03:03,0
+Brookhaven,20210316,Atlanta GA,Georgia,1,1,1,100.00%,1,00:00:00,0
+Brooklyn Park,20210113,Minneapolis-St. Paul MN,Minnesota,1,1,1,100.00%,1,00:00:00,0
+Brooklyn Park,20210117,Minneapolis-St. Paul MN,Minnesota,1,0,1,100.00%,1,00:00:00,0
+Brooklyn Park,20210123,Minneapolis-St. Paul MN,Minnesota,1,0,1,100.00%,1,00:00:00,0
+Brooklyn Park,20210124,Minneapolis-St. Paul MN,Minnesota,1,0,1,100.00%,1,00:00:00,0
+Brooklyn Park,20210130,Minneapolis-St. Paul MN,Minnesota,1,0,1,100.00%,1,00:00:00,0
+Brooklyn Park,20210201,Minneapolis-St. Paul MN,Minnesota,1,0,1,100.00%,1,00:00:00,0
+Brooklyn Park,20210207,Minneapolis-St. Paul MN,Minnesota,1,1,1,0.00%,2,00:00:35,0
+Burr Ridge,20210128,Chicago IL,Illinois,1,1,1,100.00%,1,00:00:00,0
+Burr Ridge,20210228,Chicago IL,Illinois,1,1,1,100.00%,1,00:00:00,0
+Cameron Park,20210307,Sacramento-Stockton-Modesto CA,California,1,1,1,100.00%,1,00:00:00,0
+Candler-McAfee,20210127,Atlanta GA,Georgia,1,1,1,0.00%,2,00:00:22,0
+Canyon Lake,20210118,San Antonio TX,Texas,1,1,1,100.00%,1,00:00:00,0
+Casas Adobes,20210125,Tucson (Sierra Vista) AZ,Arizona,1,1,1,100.00%,1,00:00:00,0
+Catalina Foothills,20210114,Tucson (Sierra Vista) AZ,Arizona,1,1,1,100.00%,1,00:00:00,0
+Catalina Foothills,20210121,Tucson (Sierra Vista) AZ,Arizona,1,1,1,100.00%,1,00:00:00,0
+Catalina Foothills,20210124,Tucson (Sierra Vista) AZ,Arizona,1,0,2,100.00%,1,00:00:00,0
+Catalina Foothills,20210125,Tucson (Sierra Vista) AZ,Arizona,1,0,10,100.00%,1,00:00:00,0
+Catalina Foothills,20210202,Tucson (Sierra Vista) AZ,Arizona,1,0,2,100.00%,1,00:00:00,0
+Catalina Foothills,20210203,Tucson (Sierra Vista) AZ,Arizona,1,0,1,100.00%,1,00:00:00,0
+Catalina Foothills,20210209,Tucson (Sierra Vista) AZ,Arizona,1,1,1,100.00%,1,00:00:00,0
+Catalina Foothills,20210214,Tucson (Sierra Vista) AZ,Arizona,1,0,4,100.00%,1,00:00:00,0
+Catalina Foothills,20210216,Tucson (Sierra Vista) AZ,Arizona,1,0,1,100.00%,1,00:00:00,0
+Catalina Foothills,20210219,Tucson (Sierra Vista) AZ,Arizona,1,0,3,100.00%,1,00:00:00,0
+Catalina Foothills,20210222,Tucson (Sierra Vista) AZ,Arizona,1,1,1,0.00%,5,00:02:27,0
+Catalina Foothills,20210303,Tucson (Sierra Vista) AZ,Arizona,1,0,1,100.00%,1,00:00:00,0
+Centennial,20210218,Denver CO,Colorado,1,1,1,0.00%,4,00:00:43,0
+Centerville,20210208,Dayton OH,Ohio,1,1,1,100.00%,1,00:00:00,0
+Centerville,20210306,Dayton OH,Ohio,1,1,1,100.00%,1,00:00:00,0
+Chester Township,20210222,"New York, NY",New Jersey,1,1,1,0.00%,2,00:00:36,0
+Cheval,20210219,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,0.00%,2,00:00:07,0
+Cinco Ranch,20210223,Houston TX,Texas,1,1,1,100.00%,1,00:00:00,0
+Citrus Park,20210124,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,0.00%,11,00:03:37,0
+Clinton,20210106,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Coconut Creek,20201228,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,2,00:00:14,0
+Coconut Creek,20210304,Miami-Ft. Lauderdale FL,Florida,1,0,1,100.00%,1,00:00:00,0
+Coconut Creek,20210305,Miami-Ft. Lauderdale FL,Florida,1,0,1,100.00%,1,00:00:00,0
+Coconut Creek,20210307,Miami-Ft. Lauderdale FL,Florida,1,0,2,0.00%,4,00:01:50,0
+Coconut Creek,20210311,Miami-Ft. Lauderdale FL,Florida,1,0,1,0.00%,2,00:01:17,0
+Colchester,20210217,Hartford & New Haven CT,Connecticut,1,1,1,100.00%,1,00:00:00,0
+College Park,20210212,Atlanta GA,Georgia,1,0,1,100.00%,1,00:00:00,0
+Coral Gables,20210108,Miami-Ft. Lauderdale FL,Florida,1,0,2,0.00%,4.5,00:02:02,0
+Coral Gables,20210126,Miami-Ft. Lauderdale FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Coral Gables,20210203,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,5,00:02:18,0
+Coral Gables,20210204,Miami-Ft. Lauderdale FL,Florida,1,0,1,100.00%,1,00:00:00,0
+Coral Gables,20210205,Miami-Ft. Lauderdale FL,Florida,1,0,1,0.00%,7,00:07:42,1
+Coral Gables,20210219,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,2,00:00:24,0
+Coral Gables,20210303,Miami-Ft. Lauderdale FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Coral Gables,20210313,Miami-Ft. Lauderdale FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Coral Springs,20210311,Miami-Ft. Lauderdale FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Cottonwood Heights,20201231,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Cottonwood Heights,20210308,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Country Knolls,20210207,Albany-Schenectady-Troy NY,New York,1,1,1,100.00%,1,00:00:00,0
+Covington,20210121,Seattle-Tacoma WA,Washington,1,1,2,100.00%,1,00:00:00,0
+Crozet,20201231,Charlottesville VA,Virginia,1,1,1,0.00%,2,00:00:01,0
+Crozet,20210101,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210102,Charlottesville VA,Virginia,1,1,1,0.00%,2,00:00:00,0
+Crozet,20210104,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210106,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210108,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210110,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210111,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210112,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210118,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210120,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210125,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210201,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210202,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210203,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210206,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210213,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210215,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210217,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210302,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210304,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210305,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Crozet,20210306,Charlottesville VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Cutler Bay,20210205,Miami-Ft. Lauderdale FL,Florida,1,1,2,50.00%,1.5,00:00:34,0
+Cutler Bay,20210206,Miami-Ft. Lauderdale FL,Florida,1,0,3,0.00%,3,00:01:20,0
+Davie,20210202,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,2,00:00:26,0
+Des Moines,20201225,Seattle-Tacoma WA,Washington,1,1,1,100.00%,1,00:00:00,0
+Doctor Phillips,20210310,Orlando-Daytona Beach-Melbourne FL,Florida,1,0,1,0.00%,15,00:10:52,0
+Doctor Phillips,20210312,Orlando-Daytona Beach-Melbourne FL,Florida,1,1,1,0.00%,3,00:00:29,0
+Doral,20210105,Miami-Ft. Lauderdale FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Doral,20210217,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,5,00:04:39,0
+Doral,20210311,Miami-Ft. Lauderdale FL,Florida,1,0,1,0.00%,10,00:21:11,0
+Druid Hills,20210124,Atlanta GA,Georgia,1,1,1,100.00%,1,00:00:00,0
+Dry Run,20210314,Cincinnati OH,Ohio,1,1,1,0.00%,2,00:00:09,0
+Dunwoody,20210131,Atlanta GA,Georgia,1,1,1,0.00%,5,00:01:57,0
+Dunwoody,20210201,Atlanta GA,Georgia,1,1,1,0.00%,2,00:00:04,0
+Dunwoody,20210227,Atlanta GA,Georgia,1,1,1,100.00%,1,00:00:00,0
+Dunwoody,20210228,Atlanta GA,Georgia,1,1,1,0.00%,4,00:02:09,0
+Eagan,20201224,Minneapolis-St. Paul MN,Minnesota,1,1,1,100.00%,1,00:00:00,0
+Eagle Mountain,20201223,Salt Lake City UT,Utah,1,1,2,50.00%,1.5,00:08:57,0
+Eagle Mountain,20201228,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Eagle Mountain,20201230,Salt Lake City UT,Utah,1,0,1,100.00%,1,00:00:00,0
+Eagle Mountain,20210109,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Eagle Mountain,20210124,Salt Lake City UT,Utah,1,1,1,0.00%,3,00:00:44,0
+Eagle Mountain,20210202,Salt Lake City UT,Utah,1,1,1,0.00%,2,00:00:10,0
+Eagle Mountain,20210203,Salt Lake City UT,Utah,1,0,1,100.00%,1,00:00:00,0
+Eagle Mountain,20210204,Salt Lake City UT,Utah,1,1,5,60.00%,1.6,00:04:38,0
+Eagle Mountain,20210212,Salt Lake City UT,Utah,1,1,1,0.00%,3,00:00:54,0
+East Millcreek,20201223,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+East Millcreek,20210104,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+East Millcreek,20210105,Salt Lake City UT,Utah,1,0,1,100.00%,1,00:00:00,0
+East Patchogue,20201231,"New York, NY",New York,1,1,1,100.00%,1,00:00:00,0
+East Renton Highlands,20210223,Seattle-Tacoma WA,Washington,1,1,1,0.00%,5,00:02:24,0
+Eastvale,20201230,Los Angeles CA,California,1,1,1,100.00%,1,00:00:00,0
+Economy,20210104,Pittsburgh PA,Pennsylvania,1,1,1,100.00%,1,00:00:00,0
+Edina,20210206,Minneapolis-St. Paul MN,Minnesota,1,1,1,100.00%,1,00:00:00,0
+Edina,20210314,Minneapolis-St. Paul MN,Minnesota,1,1,1,100.00%,1,00:00:00,0
+Elmwood,20210125,New Orleans LA,Louisiana,1,1,1,0.00%,2,00:00:20,0
+Ensley,20210309,Mobile AL-Pensacola (Ft. Walton Beach) FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Exeter,20210125,Boston MA-Manchester NH,New Hampshire,1,1,1,0.00%,3,00:01:07,0
+Exeter,20210127,Boston MA-Manchester NH,New Hampshire,1,0,1,100.00%,1,00:00:00,0
+Fair Oaks Ranch,20210115,San Antonio TX,Texas,1,1,1,100.00%,1,00:00:00,0
+Fairmount,20210205,Syracuse NY,New York,1,1,2,100.00%,1,00:00:00,0
+Fairmount,20210216,Syracuse NY,New York,1,0,1,100.00%,1,00:00:00,0
+Farragut,20210114,Knoxville TN,Tennessee,1,1,1,100.00%,1,00:00:00,0
+Farragut,20210118,Knoxville TN,Tennessee,1,1,1,0.00%,7,00:09:03,1
+Farragut,20210124,Knoxville TN,Tennessee,1,1,1,0.00%,7,00:25:55,0
+Farragut,20210125,Knoxville TN,Tennessee,1,0,1,100.00%,1,00:00:00,0
+Farragut,20210126,Knoxville TN,Tennessee,1,0,1,100.00%,1,00:00:00,0
+Five Corners,20210218,Portland OR,Washington,1,1,1,100.00%,1,00:00:00,0
+Five Corners,20210219,Portland OR,Washington,1,0,1,100.00%,1,00:00:00,0
+Forest Acres,20210306,Columbia SC,South Carolina,1,1,1,100.00%,1,00:00:00,0
+Forest Hills,20210124,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,1,2,0.00%,6.5,00:01:35,0
+Four Corners,20210204,Orlando-Daytona Beach-Melbourne FL,Florida,1,1,1,0.00%,2,00:00:18,0
+Four Corners,20210223,Orlando-Daytona Beach-Melbourne FL,Florida,1,1,1,0.00%,9,00:02:37,0
+Four Corners,20210225,Orlando-Daytona Beach-Melbourne FL,Florida,1,0,2,0.00%,9.5,00:03:40,3
+Four Corners,20210308,Orlando-Daytona Beach-Melbourne FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Franconia,20210215,Washington DC (Hagerstown MD),Virginia,1,1,1,0.00%,13,01:07:33,1
+Franklin Township,20210219,"New York, NY",New Jersey,1,1,1,100.00%,1,00:00:00,0
+Fruit Cove,20210210,Jacksonville FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Fruit Cove,20210214,Jacksonville FL,Florida,1,1,1,0.00%,2,00:01:31,0
+Fulshear,20210103,Houston TX,Texas,1,1,2,100.00%,1,00:00:00,0
+Fulshear,20210114,Houston TX,Texas,1,1,1,0.00%,17,00:14:18,0
+Fulshear,20210210,Houston TX,Texas,1,1,1,100.00%,1,00:00:00,0
+Fulshear,20210214,Houston TX,Texas,1,0,1,100.00%,1,00:00:00,0
+Fulshear,20210226,Houston TX,Texas,1,1,3,33.33%,6.33,00:08:09,2
+Fulshear,20210228,Houston TX,Texas,1,0,1,100.00%,1,00:00:00,0
+Fulshear,20210315,Houston TX,Texas,1,1,1,0.00%,7,00:01:47,0
+Germantown Hills,20210316,Peoria-Bloomington IL,Illinois,1,1,2,50.00%,2.5,00:00:29,0
+Glenvar Heights,20210129,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,2,00:00:14,0
+Golden Gate,20210211,Ft. Myers-Naples FL,Florida,1,1,1,0.00%,3,00:18:08,0
+Golden Gate,20210212,Ft. Myers-Naples FL,Florida,1,0,2,100.00%,1,00:00:00,0
+Golden Gate,20210213,Ft. Myers-Naples FL,Florida,1,0,2,100.00%,1,00:00:00,0
+Gonzalez,20210307,Mobile AL-Pensacola (Ft. Walton Beach) FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Granite Bay,20210123,Sacramento-Stockton-Modesto CA,California,1,1,1,100.00%,1,00:00:00,0
+Greater Carrollwood,20210202,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Greenbrier,20210208,Nashville TN,Tennessee,1,1,1,0.00%,2,00:02:22,0
+Grosse Pointe Farms,20210120,Detroit MI,Michigan,1,1,2,0.00%,4.5,00:00:56,0
+Groveton,20210303,Washington DC (Hagerstown MD),Virginia,1,1,1,0.00%,4,00:01:29,0
+Hamilton Township,20210202,Philadelphia PA,New Jersey,1,1,1,100.00%,1,00:00:00,0
+Hamilton Township,20210311,Philadelphia PA,New Jersey,1,1,1,100.00%,1,00:00:00,0
+Hamptons at Boca Raton,20210212,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,0.00%,5,00:09:12,0
+Hamptons at Boca Raton,20210215,West Palm Beach-Ft. Pierce FL,Florida,1,0,4,25.00%,5.25,00:07:06,2
+Hamptons at Boca Raton,20210218,West Palm Beach-Ft. Pierce FL,Florida,1,0,1,100.00%,1,00:00:00,0
+Hapeville,20210213,Atlanta GA,Georgia,1,1,3,0.00%,7.33,00:17:17,1
+Heathrow,20210223,Orlando-Daytona Beach-Melbourne FL,Florida,1,1,1,0.00%,2,00:00:10,0
+Herriman,20201217,Salt Lake City UT,Utah,1,1,1,0.00%,3,00:05:27,0
+Herriman,20201231,Salt Lake City UT,Utah,1,1,1,0.00%,2,00:00:55,0
+Herriman,20210101,Salt Lake City UT,Utah,1,0,2,100.00%,1,00:00:00,0
+Herriman,20210320,Salt Lake City UT,Utah,1,1,1,0.00%,2,00:00:37,0
+Hialeah Gardens,20210203,Miami-Ft. Lauderdale FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Hialeah Gardens,20210309,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,2,00:00:56,0
+Highland,20201227,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Highland Park,20210120,Dallas-Ft. Worth TX,Texas,1,1,1,100.00%,1,00:00:00,0
+Highland Village,20201231,Dallas-Ft. Worth TX,Texas,1,1,1,100.00%,1,00:00:00,0
+Highland Village,20210101,Dallas-Ft. Worth TX,Texas,1,1,1,100.00%,1,00:00:00,0
+Highlands Ranch,20210130,Denver CO,Colorado,1,1,1,100.00%,1,00:00:00,0
+Highlands Ranch,20210218,Denver CO,Colorado,1,1,1,100.00%,1,00:00:00,0
+Hingham,20210228,Boston MA-Manchester NH,Massachusetts,1,1,1,100.00%,1,00:00:00,0
+Holladay,20201227,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Holladay,20210128,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Holladay,20210310,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Holmes Beach,20210209,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Homewood,20210210,Birmingham (Ann and Tusc) AL,Alabama,1,1,1,0.00%,10,00:05:01,0
+Homewood,20210317,Birmingham (Ann and Tusc) AL,Alabama,1,1,1,100.00%,1,00:00:00,0
+Hoover,20210125,Birmingham (Ann and Tusc) AL,Alabama,1,1,1,0.00%,3,00:06:42,0
+Hoover,20210206,Birmingham (Ann and Tusc) AL,Alabama,1,1,1,0.00%,1,00:04:01,0
+Hoover,20210207,Birmingham (Ann and Tusc) AL,Alabama,1,1,2,0.00%,5.5,00:14:47,0
+Hoover,20210215,Birmingham (Ann and Tusc) AL,Alabama,1,0,1,100.00%,1,00:00:00,0
+Hoover,20210216,Birmingham (Ann and Tusc) AL,Alabama,1,1,1,0.00%,13,00:05:30,0
+Hoover,20210219,Birmingham (Ann and Tusc) AL,Alabama,1,1,1,0.00%,4,00:01:47,0
+Hoover,20210221,Birmingham (Ann and Tusc) AL,Alabama,1,1,1,0.00%,4,00:01:46,0
+Hoover,20210224,Birmingham (Ann and Tusc) AL,Alabama,1,1,2,50.00%,3.5,00:03:20,0
+Hoover,20210310,Birmingham (Ann and Tusc) AL,Alabama,1,1,1,100.00%,1,00:00:00,0
+Hoover,20210311,Birmingham (Ann and Tusc) AL,Alabama,1,1,1,0.00%,8,00:11:03,0
+Hoover,20210313,Birmingham (Ann and Tusc) AL,Alabama,1,1,1,100.00%,1,00:00:00,0
+Hoover,20210317,Birmingham (Ann and Tusc) AL,Alabama,1,1,1,100.00%,1,00:00:00,0
+Hoover,20210319,Birmingham (Ann and Tusc) AL,Alabama,1,1,1,0.00%,4,00:03:29,0
+Hopkinton,20210216,Boston MA-Manchester NH,Massachusetts,1,1,1,100.00%,1,00:00:00,0
+Horizon City,20210121,El Paso TX,Texas,1,1,1,100.00%,1,00:00:00,0
+Horseshoe Bay,20210104,Austin TX,Texas,1,1,1,100.00%,1,00:00:00,0
+Hot Springs,20210130,Little Rock-Pine Bluff AR,Arkansas,1,1,1,100.00%,1,00:00:00,0
+Hunters Creek,20210130,Orlando-Daytona Beach-Melbourne FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Indian Hill,20210127,Cincinnati OH,Ohio,1,1,1,0.00%,5,00:01:03,0
+Ipswich,20210202,Boston MA-Manchester NH,Massachusetts,1,1,1,0.00%,7,00:01:11,0
+Ives Estates,20210201,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,2,00:00:23,0
+Johns Creek,20210208,Atlanta GA,Georgia,1,1,2,0.00%,12,00:06:42,0
+Johns Creek,20210209,Atlanta GA,Georgia,1,0,1,0.00%,12,00:02:34,0
+Johns Creek,20210212,Atlanta GA,Georgia,1,0,1,0.00%,17,00:05:38,0
+Johns Creek,20210225,Atlanta GA,Georgia,1,0,1,100.00%,1,00:00:00,0
+Johns Creek,20210302,Atlanta GA,Georgia,1,1,2,0.00%,6,00:04:13,0
+Johns Creek,20210308,Atlanta GA,Georgia,1,0,1,0.00%,36,00:58:16,3
+Johns Creek,20210314,Atlanta GA,Georgia,1,1,1,0.00%,5,00:02:07,0
+Johns Creek,20210315,Atlanta GA,Georgia,1,0,1,0.00%,25,00:10:32,3
+Juno Beach,20210107,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Kearns,20201228,Salt Lake City UT,Utah,1,1,1,0.00%,5,00:03:20,0
+Kearns,20210301,Salt Lake City UT,Utah,1,1,4,0.00%,3,00:01:31,0
+Kearns,20210302,Salt Lake City UT,Utah,1,0,3,100.00%,1,00:00:00,0
+Ken Caryl,20201217,Denver CO,Colorado,1,1,1,0.00%,2,00:26:06,0
+Ken Caryl,20210203,Denver CO,Colorado,1,0,1,100.00%,1,00:00:00,0
+Kendall,20210315,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,4,00:01:32,0
+Kentwood,20210120,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,1,1,100.00%,1,00:00:00,0
+Kentwood,20210123,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,0,1,100.00%,1,00:00:00,0
+Kentwood,20210124,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,0,1,100.00%,1,00:00:00,0
+Kentwood,20210126,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,0,1,100.00%,1,00:00:00,0
+Kentwood,20210130,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,0,1,100.00%,1,00:00:00,0
+Kentwood,20210201,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,0,1,100.00%,1,00:00:00,0
+Kentwood,20210215,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,0,1,100.00%,1,00:00:00,0
+Kentwood,20210221,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,0,1,0.00%,3,00:00:19,0
+Kentwood,20210301,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,1,1,0.00%,5,00:01:06,0
+Kentwood,20210307,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,0,1,100.00%,1,00:00:00,0
+Kentwood,20210309,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,0,1,0.00%,4,00:02:16,0
+Kettering,20210309,Dayton OH,Ohio,1,1,1,100.00%,1,00:00:00,0
+Keystone,20210301,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,0.00%,3,00:00:48,0
+Kings Point,20210129,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,0.00%,2,00:00:22,0
+Kings Point,20210208,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,0.00%,7,00:01:31,0
+Kings Point,20210209,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,0.00%,2,00:00:45,0
+Kings Point,20210222,West Palm Beach-Ft. Pierce FL,Florida,1,1,2,0.00%,3.5,00:00:41,0
+Kingsland,20210221,Austin TX,Texas,1,1,1,100.00%,1,00:00:00,0
+Kinnelon,20210301,"New York, NY",New Jersey,1,1,1,0.00%,3,00:01:48,0
+Kinnelon,20210308,"New York, NY",New Jersey,1,1,1,100.00%,1,00:00:00,0
+Laguna Woods,20210304,Los Angeles CA,California,1,1,1,100.00%,1,00:00:00,0
+Lake Lorraine,20210123,Mobile AL-Pensacola (Ft. Walton Beach) FL,Florida,1,1,3,33.33%,3,00:09:41,0
+Lake Lorraine,20210126,Mobile AL-Pensacola (Ft. Walton Beach) FL,Florida,1,1,2,0.00%,15,00:05:53,0
+Lakeland Highlands,20210203,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,0.00%,12,00:04:01,0
+Lakeway,20210127,Austin TX,Texas,1,1,2,0.00%,12.5,00:11:20,0
+Lakeway,20210305,Austin TX,Texas,1,1,1,0.00%,11,00:03:25,0
+Lakewood,20210216,Denver CO,Colorado,1,1,1,100.00%,1,00:00:00,0
+Lakewood,20210220,Denver CO,Colorado,1,1,1,0.00%,6,00:02:21,0
+Lakewood,20210316,Denver CO,Colorado,1,1,1,100.00%,1,00:00:00,0
+Linda,20210202,Sacramento-Stockton-Modesto CA,California,1,1,1,100.00%,1,00:00:00,0
+Long Hill,20210213,"New York, NY",New Jersey,1,1,1,0.00%,1,00:00:42,0
+Los Altos Hills,20210218,San Francisco-Oakland-San Jose CA,California,1,1,1,0.00%,2,00:00:54,0
+Manchester Township,20210124,"New York, NY",New Jersey,1,1,2,100.00%,1,00:00:00,0
+Maple Grove,20210130,Minneapolis-St. Paul MN,Minnesota,1,1,1,0.00%,7,00:01:53,0
+Maple Grove,20210301,Minneapolis-St. Paul MN,Minnesota,1,1,1,100.00%,1,00:00:00,0
+Mattydale,20210212,Syracuse NY,New York,1,1,1,0.00%,18,00:06:01,0
+Mattydale,20210215,Syracuse NY,New York,1,0,1,0.00%,5,00:03:06,0
+Midwest City,20210119,Oklahoma City OK,Oklahoma,1,1,1,0.00%,8,00:04:17,0
+Mill Creek,20210209,Seattle-Tacoma WA,Washington,1,1,1,100.00%,1,00:00:00,0
+Millcreek,20201224,Salt Lake City UT,Utah,1,1,1,0.00%,2,00:00:27,0
+Millcreek,20210302,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Milton,20210202,Atlanta GA,Georgia,1,1,2,50.00%,12.5,00:09:56,0
+Milton,20210204,Atlanta GA,Georgia,1,0,1,0.00%,37,00:29:25,3
+Milton,20210209,Atlanta GA,Georgia,1,0,1,0.00%,28,00:42:27,2
+Milton,20210228,Atlanta GA,Georgia,1,0,1,100.00%,1,00:00:00,0
+Miramar,20210112,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,3,00:00:26,0
+Miramar,20210317,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,2,00:00:10,0
+Miramar Beach,20210203,Panama City FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Miramar Beach,20210320,Panama City FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Montebello,20210224,"New York, NY",New York,1,1,1,100.00%,1,00:00:00,0
+Mountain Brook,20210204,Birmingham (Ann and Tusc) AL,Alabama,1,1,2,0.00%,3,00:01:09,0
+Mountain Brook,20210221,Birmingham (Ann and Tusc) AL,Alabama,1,1,1,0.00%,2,00:01:03,0
+Mountain Brook,20210223,Birmingham (Ann and Tusc) AL,Alabama,1,1,1,0.00%,2,00:00:11,0
+Murray,20201225,Salt Lake City UT,Utah,1,1,1,0.00%,2,00:00:30,0
+Murray,20210101,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Murray,20210106,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Murray,20210112,Salt Lake City UT,Utah,1,0,1,100.00%,1,00:00:00,0
+Murray,20210115,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Murray,20210202,Salt Lake City UT,Utah,1,0,2,0.00%,5,00:01:54,0
+Murray,20210203,Salt Lake City UT,Utah,1,0,1,0.00%,5,00:25:41,0
+Murray,20210204,Salt Lake City UT,Utah,1,1,1,0.00%,3,00:01:11,0
+Murray,20210205,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Murray,20210220,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Murray,20210224,Salt Lake City UT,Utah,1,1,1,0.00%,4,00:01:06,0
+Murray,20210225,Salt Lake City UT,Utah,1,0,2,50.00%,1.5,00:00:38,0
+Murray,20210226,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Murray,20210305,Salt Lake City UT,Utah,1,1,1,0.00%,2,00:00:12,0
+Murray,20210307,Salt Lake City UT,Utah,1,0,1,100.00%,1,00:00:00,0
+Murray,20210317,Salt Lake City UT,Utah,1,0,1,100.00%,1,00:00:00,0
+New Hanover,20210225,Philadelphia PA,New Jersey,1,1,1,100.00%,1,00:00:00,0
+New Hanover,20210304,Philadelphia PA,New Jersey,1,0,1,100.00%,1,00:00:00,0
+North Bethesda,20210218,Washington DC (Hagerstown MD),Maryland,1,1,1,100.00%,1,00:00:00,0
+North Creek,20201227,Seattle-Tacoma WA,Washington,1,1,1,100.00%,1,00:00:00,0
+North Creek,20210110,Seattle-Tacoma WA,Washington,1,1,1,0.00%,2,00:00:03,0
+North Creek,20210112,Seattle-Tacoma WA,Washington,1,1,1,100.00%,1,00:00:00,0
+North Creek,20210123,Seattle-Tacoma WA,Washington,1,1,1,100.00%,1,00:00:00,0
+North Creek,20210228,Seattle-Tacoma WA,Washington,1,1,1,100.00%,1,00:00:00,0
+North Decatur,20210121,Atlanta GA,Georgia,1,1,1,0.00%,6,00:03:01,0
+North Laurel,20210214,Baltimore MD,Maryland,1,1,1,0.00%,4,00:01:15,0
+North Naples,20210119,Ft. Myers-Naples FL,Florida,1,1,1,0.00%,7,00:01:29,0
+North Naples,20210209,Ft. Myers-Naples FL,Florida,1,1,1,100.00%,1,00:00:00,0
+North Naples,20210221,Ft. Myers-Naples FL,Florida,1,1,2,50.00%,1,00:02:05,0
+North Naples,20210305,Ft. Myers-Naples FL,Florida,1,1,1,100.00%,1,00:00:00,0
+North Topsail Beach,20210306,Greenville-New Bern-Washington NC,North Carolina,1,1,1,100.00%,1,00:00:00,0
+Norton Shores,20210128,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,1,1,100.00%,1,00:00:00,0
+O'Hara Township,20210316,Pittsburgh PA,Pennsylvania,1,1,1,0.00%,5,00:01:21,0
+O'Hara Township,20210318,Pittsburgh PA,Pennsylvania,1,1,1,0.00%,12,00:13:34,0
+Oak Grove,20210101,Portland OR,Oregon,1,0,2,100.00%,1,00:00:00,0
+Oak Grove,20210103,Portland OR,Oregon,1,0,1,100.00%,1,00:00:00,0
+Oak Grove,20210308,Portland OR,Oregon,1,1,3,66.67%,1.33,00:05:00,0
+Oakbrook Terrace,20210313,Chicago IL,Illinois,1,1,1,100.00%,1,00:00:00,0
+Orcutt,20210103,Santa Barbara-Santa Maria-San Luis Obispo CA,California,1,1,1,100.00%,1,00:00:00,0
+Orcutt,20210111,Santa Barbara-Santa Maria-San Luis Obispo CA,California,1,0,1,100.00%,1,00:00:00,0
+Orcutt,20210117,Santa Barbara-Santa Maria-San Luis Obispo CA,California,1,0,1,100.00%,1,00:00:00,0
+Oro Valley,20201231,Tucson (Sierra Vista) AZ,Arizona,1,1,1,100.00%,1,00:00:00,0
+Oro Valley,20210102,Tucson (Sierra Vista) AZ,Arizona,1,1,1,100.00%,1,00:00:00,0
+Oro Valley,20210110,Tucson (Sierra Vista) AZ,Arizona,1,1,1,100.00%,1,00:00:00,0
+Palm Beach Gardens,20210203,West Palm Beach-Ft. Pierce FL,Florida,1,1,2,0.00%,4,00:03:53,0
+Palm Beach Gardens,20210204,West Palm Beach-Ft. Pierce FL,Florida,1,1,2,0.00%,10.5,00:06:30,0
+Palm Beach Gardens,20210209,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Palm Beach Gardens,20210222,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,0.00%,3,00:00:49,0
+Palm Beach Gardens,20210224,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,0.00%,4,00:02:12,0
+Palm Beach Gardens,20210311,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,0.00%,3,00:03:47,0
+Palm River-Clair Mel,20210219,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,0.00%,5,00:02:06,0
+Palm River-Clair Mel,20210221,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,0.00%,3,00:02:45,0
+Palm River-Clair Mel,20210306,Tampa-St. Petersburg (Sarasota) FL,Florida,1,0,1,0.00%,3,00:00:58,0
+Palm Valley,20210215,Jacksonville FL,Florida,1,0,1,100.00%,1,00:00:00,0
+Palm Valley,20210219,Jacksonville FL,Florida,1,1,1,0.00%,8,00:01:10,0
+Palm Valley,20210307,Jacksonville FL,Florida,1,1,1,0.00%,4,00:02:00,0
+Palm Valley,20210309,Jacksonville FL,Florida,1,1,1,0.00%,5,00:01:51,0
+Parkland,20210115,Seattle-Tacoma WA,Washington,1,1,1,100.00%,1,00:00:00,0
+Parkwood,20210113,Seattle-Tacoma WA,Washington,1,1,2,100.00%,1,00:00:00,0
+Parole,20210314,Baltimore MD,Maryland,1,1,1,100.00%,1,00:00:00,0
+Pinecrest,20210217,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,2,00:00:14,0
+Plantation,20210222,Miami-Ft. Lauderdale FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Plymouth,20210213,Minneapolis-St. Paul MN,Minnesota,1,1,1,0.00%,2,00:00:03,0
+Plymouth Charter Township,20210307,Detroit MI,Michigan,1,1,1,100.00%,1,00:00:00,0
+Port Saint John,20210227,Orlando-Daytona Beach-Melbourne FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Potomac Falls,20210302,Washington DC (Hagerstown MD),Virginia,1,1,1,100.00%,1,00:00:00,0
+Queensbury,20210214,Albany-Schenectady-Troy NY,New York,1,1,1,100.00%,1,00:00:00,0
+Queensbury,20210226,Albany-Schenectady-Troy NY,New York,1,1,1,100.00%,1,00:00:00,0
+Rancho Murieta,20210123,Sacramento-Stockton-Modesto CA,California,1,1,1,100.00%,1,00:00:00,0
+Ravena,20210218,Albany-Schenectady-Troy NY,New York,1,1,1,100.00%,1,00:00:00,0
+Richmond West,20210217,Miami-Ft. Lauderdale FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Riviera Beach,20210306,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,0.00%,2,00:01:05,0
+Robbinsville Township,20210311,Philadelphia PA,New Jersey,1,1,1,0.00%,3,00:06:07,0
+Rossville,20210223,Baltimore MD,Maryland,1,1,2,0.00%,7.5,00:04:22,0
+Rossville,20210305,Baltimore MD,Maryland,1,1,1,100.00%,1,00:00:00,0
+Royal Palm Beach,20210207,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,0.00%,5,00:00:50,0
+Royal Palm Beach,20210210,West Palm Beach-Ft. Pierce FL,Florida,1,0,1,0.00%,7,00:15:29,0
+Royal Palm Beach,20210211,West Palm Beach-Ft. Pierce FL,Florida,1,0,2,0.00%,42,00:27:20,0
+Royal Palm Beach,20210302,West Palm Beach-Ft. Pierce FL,Florida,1,1,2,50.00%,1.5,00:03:04,0
+Royal Palm Beach,20210309,West Palm Beach-Ft. Pierce FL,Florida,1,0,1,0.00%,18,01:18:19,2
+Salmon Creek,20210301,Portland OR,Washington,1,1,1,100.00%,1,00:00:00,0
+Sanatoga,20210125,Philadelphia PA,Pennsylvania,1,1,1,100.00%,1,00:00:00,0
+Sandy Springs,20210208,Atlanta GA,Georgia,1,1,1,0.00%,8,00:04:34,0
+Sandy Springs,20210210,Atlanta GA,Georgia,1,1,2,0.00%,7,00:03:32,0
+Sandy Springs,20210221,Atlanta GA,Georgia,1,1,1,0.00%,3,00:01:12,0
+Sandy Springs,20210223,Atlanta GA,Georgia,1,1,1,0.00%,16,00:17:37,1
+Sandy Springs,20210313,Atlanta GA,Georgia,1,1,1,0.00%,1,00:01:46,0
+Sandy Springs,20210314,Atlanta GA,Georgia,1,1,1,100.00%,1,00:00:00,0
+Saratoga Springs,20201215,Salt Lake City UT,Utah,1,1,1,0.00%,3,00:00:22,0
+Saratoga Springs,20201223,Salt Lake City UT,Utah,1,1,1,0.00%,2,00:01:18,0
+Saratoga Springs,20201224,Salt Lake City UT,Utah,1,1,1,0.00%,16,00:05:09,0
+Saratoga Springs,20210103,Salt Lake City UT,Utah,1,1,1,0.00%,2,00:00:22,0
+Saratoga Springs,20210319,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Seven Lakes,20210301,Raleigh-Durham (Fayetteville) NC,North Carolina,1,1,1,100.00%,1,00:00:00,0
+Shoreline,20210223,Seattle-Tacoma WA,Washington,1,1,1,100.00%,1,00:00:00,0
+Shorewood,20210301,Chicago IL,Illinois,1,1,1,0.00%,4,00:01:27,0
+Sienna Plantation,20210311,Houston TX,Texas,1,0,1,0.00%,4,00:00:44,0
+South Barrington,20210115,Chicago IL,Illinois,1,1,1,100.00%,1,00:00:00,0
+South Brunswick Township,20210209,"New York, NY",New Jersey,1,1,1,100.00%,1,00:00:00,0
+South Hill,20210130,Seattle-Tacoma WA,Washington,1,1,1,100.00%,1,00:00:00,0
+South Hill,20210302,Seattle-Tacoma WA,Washington,1,1,1,100.00%,1,00:00:00,0
+Snyderville,20201223,Salt Lake City UT,Utah,1,1,1,0.00%,2,00:00:46,0
+Snyderville,20201226,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Snyderville,20201227,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Snyderville,20201229,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Snyderville,20201231,Salt Lake City UT,Utah,1,1,1,0.00%,4,00:00:44,0
+Snyderville,20210101,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Snyderville,20210105,Salt Lake City UT,Utah,1,0,1,100.00%,1,00:00:00,0
+Snyderville,20210109,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Snyderville,20210110,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Snyderville,20210112,Salt Lake City UT,Utah,1,1,2,100.00%,1,00:00:00,0
+Snyderville,20210113,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Snyderville,20210117,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Snyderville,20210218,Salt Lake City UT,Utah,1,0,1,0.00%,10,00:07:29,2
+Snyderville,20210220,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Snyderville,20210223,Salt Lake City UT,Utah,1,1,1,0.00%,6,00:11:08,0
+Snyderville,20210224,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Snyderville,20210302,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Snyderville,20210303,Salt Lake City UT,Utah,1,1,1,0.00%,7,00:02:45,0
+Snyderville,20210305,Salt Lake City UT,Utah,1,1,1,0.00%,3,00:00:32,0
+Snyderville,20210309,Salt Lake City UT,Utah,1,1,1,0.00%,4,00:01:28,0
+Snyderville,20210311,Salt Lake City UT,Utah,1,1,1,0.00%,2,00:00:14,0
+Snyderville,20210313,Salt Lake City UT,Utah,1,1,1,0.00%,4,00:02:32,0
+Snyderville,20210314,Salt Lake City UT,Utah,1,1,2,0.00%,9.5,00:15:40,0
+Snyderville,20210315,Salt Lake City UT,Utah,1,0,1,100.00%,1,00:00:00,0
+Snyderville,20210317,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Snyderville,20210318,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+South Venice,20210127,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Spring Hill,20210219,Nashville TN,Tennessee,1,1,1,0.00%,10,00:04:44,0
+St. Augustine Beach,20210130,Jacksonville FL,Florida,1,1,1,100.00%,1,00:00:00,0
+St. Augustine Beach,20210306,Jacksonville FL,Florida,1,1,1,0.00%,4,00:04:43,0
+Stansbury Park,20201223,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Sugar Hill,20210111,Atlanta GA,Georgia,1,1,1,0.00%,9,00:03:15,0
+Sugar Hill,20210112,Atlanta GA,Georgia,1,1,1,0.00%,6,00:02:25,0
+Sunrise,20210217,Miami-Ft. Lauderdale FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Tamarac,20210301,Miami-Ft. Lauderdale FL,Florida,1,0,1,0.00%,13,00:01:04,0
+Tamiami,20210216,Miami-Ft. Lauderdale FL,Florida,1,1,1,0.00%,9,00:03:04,0
+Taylorsville,20201229,Salt Lake City UT,Utah,1,1,2,0.00%,5,00:14:43,0
+Taylorsville,20210114,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+The Hammocks,20210127,Miami-Ft. Lauderdale FL,Florida,1,1,1,100.00%,1,00:00:00,0
+The Hammocks,20210130,Miami-Ft. Lauderdale FL,Florida,1,1,3,33.33%,6.33,00:01:28,0
+The Villages,20201227,Orlando-Daytona Beach-Melbourne FL,Florida,1,1,1,100.00%,1,00:00:00,0
+The Villages,20210110,Orlando-Daytona Beach-Melbourne FL,Florida,1,0,1,100.00%,1,00:00:00,0
+The Villages,20210224,Orlando-Daytona Beach-Melbourne FL,Florida,1,1,1,100.00%,1,00:00:00,0
+The Woodlands,20201231,Houston TX,Texas,1,1,1,100.00%,1,00:00:00,0
+The Woodlands,20210103,Houston TX,Texas,1,1,1,100.00%,1,00:00:00,0
+The Woodlands,20210118,Houston TX,Texas,1,1,1,100.00%,1,00:00:00,0
+The Woodlands,20210205,Houston TX,Texas,1,1,2,0.00%,4.5,00:03:37,0
+The Woodlands,20210206,Houston TX,Texas,1,0,1,100.00%,1,00:00:00,0
+The Woodlands,20210211,Houston TX,Texas,1,1,1,0.00%,2,00:01:06,0
+The Woodlands,20210220,Houston TX,Texas,1,1,2,0.00%,3.5,00:02:19,0
+The Woodlands,20210310,Houston TX,Texas,1,1,1,100.00%,1,00:00:00,0
+The Woodlands,20210311,Houston TX,Texas,1,1,1,0.00%,3,00:01:18,0
+Three Lakes,20210103,Seattle-Tacoma WA,Washington,1,1,2,100.00%,1,00:00:00,0
+Three Lakes,20210117,Seattle-Tacoma WA,Washington,1,1,1,100.00%,1,00:00:00,0
+Three Rivers,20210104,Bend OR,Oregon,1,1,1,100.00%,1,00:00:00,0
+Tigard,20210116,Portland OR,Oregon,1,1,1,100.00%,1,00:00:00,0
+Timberwood Park,20210123,San Antonio TX,Texas,1,1,1,100.00%,1,00:00:00,0
+Tinton Falls,20210130,"New York, NY",New Jersey,1,1,1,100.00%,1,00:00:00,0
+Town 'n' Country,20210120,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Town 'n' Country,20210220,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Town 'n' Country,20210227,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,0.00%,2,00:00:09,0
+Tuckahoe,20210129,Richmond-Petersburg VA,Virginia,1,1,1,100.00%,1,00:00:00,0
+Tuckahoe,20210205,Richmond-Petersburg VA,Virginia,1,0,1,100.00%,1,00:00:00,0
+Tuckahoe,20210206,Richmond-Petersburg VA,Virginia,1,0,1,0.00%,10,00:26:41,1
+Tuckahoe,20210224,Richmond-Petersburg VA,Virginia,1,1,3,33.33%,4,00:00:32,1
+Valley Falls,20210301,Greenville-Spartanburg-Asheville-Anderson,South Carolina,1,1,1,100.00%,1,00:00:00,0
+Village of Oak Creek,20210207,Phoenix AZ,Arizona,1,1,1,100.00%,1,00:00:00,0
+Villas,20210127,Ft. Myers-Naples FL,Florida,1,1,1,100.00%,1,00:00:00,0
+Waldport,20210123,Portland OR,Oregon,1,1,1,100.00%,1,00:00:00,0
+Wantage,20210310,"New York, NY",New Jersey,1,1,1,100.00%,1,00:00:00,0
+Wellington,20210227,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,0.00%,3,00:00:46,0
+Wellington,20210307,West Palm Beach-Ft. Pierce FL,Florida,1,1,3,0.00%,4,00:08:46,0
+Wellington,20210309,West Palm Beach-Ft. Pierce FL,Florida,1,1,1,0.00%,8,00:00:57,0
+Wesley Chapel,20210218,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,0.00%,5,00:02:01,0
+Wesley Chapel,20210305,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,3,0.00%,7.33,00:06:36,0
+West Lake Hills,20210107,Austin TX,Texas,1,1,1,100.00%,1,00:00:00,0
+West Point,20210206,Sacramento-Stockton-Modesto CA,California,1,1,1,0.00%,10,00:03:53,0
+West University Place,20210213,Houston TX,Texas,1,1,1,100.00%,1,00:00:00,0
+West Valley City,20201227,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+West Valley City,20201228,Salt Lake City UT,Utah,1,1,1,0.00%,3,00:15:00,0
+West Valley City,20201229,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+West Valley City,20210104,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+West Valley City,20210109,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+West Valley City,20210110,Salt Lake City UT,Utah,1,1,1,0.00%,3,00:00:48,0
+West Valley City,20210116,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+West Valley City,20210119,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+West Valley City,20210213,Salt Lake City UT,Utah,1,0,2,100.00%,1,00:00:00,0
+West Valley City,20210215,Salt Lake City UT,Utah,1,1,1,0.00%,2,00:00:58,0
+West Valley City,20210216,Salt Lake City UT,Utah,1,0,1,0.00%,2,00:00:12,0
+West Valley City,20210221,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+West Valley City,20210223,Salt Lake City UT,Utah,1,1,1,100.00%,1,00:00:00,0
+Westchase,20210209,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,0.00%,3,00:03:45,0
+Westchase,20210317,Tampa-St. Petersburg (Sarasota) FL,Florida,1,1,1,0.00%,6,00:03:55,0
+Westerly,20210129,"Providence-New Bedford,MA",Rhode Island,1,1,1,0.00%,8,00:02:18,0
+Weston,20210302,Wausau-Rhinelander WI,Wisconsin,1,1,1,100.00%,1,00:00:00,0
+White Bear Lake,20210316,Minneapolis-St. Paul MN,Minnesota,1,1,1,0.00%,3,00:08:38,0
+Wyoming,20210225,Grand Rapids-Kalamazoo-Battle Creek MI,Michigan,1,1,1,100.00%,1,00:00:00,0
+Yardley,20210307,Philadelphia PA,Pennsylvania,1,1,1,100.00%,1,00:00:00,0
+Yosemite Lakes,20201226,Fresno-Visalia CA,California,1,1,1,100.00%,1,00:00:00,0
+Samarinda,20210106,(not set),East Kalimantan,1,1,1,100.00%,1,00:00:00,0
+Adiyaman,20210212,(not set),Adiyaman,1,1,1,100.00%,1,00:00:00,0
+Giresun,20210305,(not set),Giresun,1,1,1,100.00%,1,00:00:00,0
+Nusaybin,20210110,(not set),Mardin,1,1,1,100.00%,1,00:00:00,0
+Osmaniye,20210102,(not set),Osmaniye,1,1,1,100.00%,1,00:00:00,0
+Sakarya,20210123,(not set),Sakarya,1,1,1,100.00%,1,00:00:00,0
+Sahiwal,20210305,(not set),Punjab,1,1,1,100.00%,1,00:00:00,0
+Sahiwal,20210320,(not set),Punjab,1,1,1,100.00%,1,00:00:00,0
+Tallinn,20210112,(not set),Harju County,1,1,1,100.00%,1,00:00:00,0
+Tartu,20210302,(not set),Tartu County,1,1,1,100.00%,1,00:00:00,0
+Tartu,20210306,(not set),Tartu County,1,0,1,100.00%,1,00:00:00,0
+Tartu,20210308,(not set),Tartu County,1,0,1,100.00%,1,00:00:00,0
+Athens,20210201,(not set),Attica,1,1,1,100.00%,1,00:00:00,0
+Thessaloniki,20210224,(not set),Decentralized Administration of Macedonia and Thrace,1,1,1,100.00%,1,00:00:00,0
+Thessaloniki,20210307,(not set),Decentralized Administration of Macedonia and Thrace,1,0,1,100.00%,1,00:00:00,0
+San Juan,20210303,(not set),San Juan,1,1,1,0.00%,3,00:00:58,0
+Bratislava,20210101,(not set),Bratislava Region,1,1,1,0.00%,4,00:02:44,0
+Bratislava,20210214,(not set),Bratislava Region,1,0,1,100.00%,1,00:00:00,0
+Bratislava,20210215,(not set),Bratislava Region,1,0,1,100.00%,1,00:00:00,0
+Bratislava,20210220,(not set),Bratislava Region,1,0,1,100.00%,1,00:00:00,0
+Bratislava,20210302,(not set),Bratislava Region,1,1,1,100.00%,1,00:00:00,0
+Bratislava,20210305,(not set),Bratislava Region,1,0,1,100.00%,1,00:00:00,0
+Bratislava,20210307,(not set),Bratislava Region,1,0,1,100.00%,1,00:00:00,0
+Mostar,20210201,(not set),Herzegovina-Neretva Canton,1,1,2,100.00%,1,00:00:00,0
+Mostar,20210202,(not set),Herzegovina-Neretva Canton,1,0,1,100.00%,1,00:00:00,0
+Sottrum,20210213,(not set),Lower Saxony,1,1,2,100.00%,1,00:00:00,0
+Sottrum,20210214,(not set),Lower Saxony,1,0,1,100.00%,1,00:00:00,0
+Sottrum,20210215,(not set),Lower Saxony,1,0,1,100.00%,1,00:00:00,0
+Dorado,20210316,(not set),(not set),1,1,1,100.00%,1,00:00:00,0
+Yerevan,20210221,(not set),(not set),1,1,1,100.00%,1,00:00:00,0
+Turen,20210113,(not set),East Java,1,1,1,100.00%,1,00:00:00,0
+Sidoarjo,20210223,(not set),East Java,1,1,1,100.00%,1,00:00:00,0
+Nakhon Si Thammarat,20210112,(not set),Nakhon Si Thammarat,1,1,1,100.00%,1,00:00:00,0
+El Obour City,20210102,(not set),Al Qalyubia Governorate,1,1,1,0.00%,2,00:00:04,0
+Tijuana,20210223,(not set),Baja California,1,1,1,100.00%,1,00:00:00,0
+Tijuana,20210311,(not set),Baja California,1,1,1,0.00%,3,00:00:29,0
+San Pedro Garza Garcia,20210304,(not set),Nuevo Leon,1,1,1,0.00%,4,00:01:08,0
+Puebla,20210308,(not set),Puebla,1,1,1,100.00%,1,00:00:00,0
+Naucalpan de Juarez,20210112,(not set),State of Mexico,1,1,1,0.00%,4,00:01:08,0
+Naucalpan de Juarez,20210228,(not set),State of Mexico,1,1,1,0.00%,21,00:11:09,0
+Naucalpan de Juarez,20210320,(not set),State of Mexico,1,1,1,100.00%,1,00:00:00,0
+Delhi,20201227,(not set),Delhi,1,1,1,100.00%,1,00:00:00,0
+Delhi,20210210,(not set),Delhi,1,1,1,0.00%,9,00:00:46,0
+Delhi,20210307,(not set),Delhi,1,1,1,0.00%,4,00:00:09,0
+Delhi,20210317,(not set),Delhi,1,1,1,0.00%,2,00:00:13,0
+Municipality of Kumanovo,20210204,(not set),(not set),1,1,1,100.00%,1,00:00:00,0
+(not set),20201229,(not set),Texas,1,1,1,100.00%,1,00:00:00,0
+(not set),20210126,(not set),Texas,1,1,2,100.00%,1,00:00:00,0
+(not set),20210214,(not set),New Jersey,1,1,1,100.00%,1,00:00:00,0
+(not set),20210215,(not set),New Jersey,1,0,1,0.00%,1,00:01:08,0
+(not set),20210218,(not set),New Jersey,1,0,1,0.00%,1,00:02:29,0
+(not set),20210222,(not set),New Jersey,1,0,1,100.00%,1,00:00:00,0
+(not set),20201226,(not set),Georgia,1,1,1,100.00%,1,00:00:00,0
+(not set),20210209,(not set),New York,1,1,1,0.00%,2,00:00:12,0
+(not set),20210205,(not set),New Mexico,1,1,1,0.00%,4,00:01:36,0
+(not set),20201230,(not set),Washington,1,1,1,100.00%,1,00:00:00,0
+(not set),20210112,(not set),Abu Dhabi,1,1,1,100.00%,1,00:00:00,0
+(not set),20210117,(not set),Abu Dhabi,1,0,1,100.00%,1,00:00:00,0
+(not set),20201227,(not set),Washington,1,1,1,100.00%,1,00:00:00,0
+(not set),20210101,(not set),Samegrelo-Zemo Svaneti,1,1,1,100.00%,1,00:00:00,0
+(not set),20210102,(not set),Utah,1,1,1,100.00%,1,00:00:00,0
+(not set),20210112,(not set),"Decentralized Administration of Peloponnese, Western Greece and the Ionian",1,1,1,100.00%,1,00:00:00,0
+(not set),20210216,(not set),South Carolina,1,1,2,100.00%,1,00:00:00,0
+(not set),20210115,(not set),Utah,1,1,1,100.00%,1,00:00:00,0
+(not set),20210116,(not set),Utah,1,0,1,100.00%,1,00:00:00,0
+(not set),20210213,(not set),Texas,1,1,1,100.00%,1,00:00:00,0
+(not set),20201229,(not set),Utah,1,1,1,100.00%,1,00:00:00,0
+(not set),20210112,(not set),Texas,1,1,1,100.00%,1,00:00:00,0
+(not set),20210209,(not set),South Carolina,1,1,1,100.00%,1,00:00:00,0
+(not set),20210114,(not set),Texas,1,1,1,100.00%,1,00:00:00,0
+(not set),20210304,(not set),Texas,1,1,1,100.00%,1,00:00:00,0
+(not set),20210105,(not set),Punjab,1,1,1,0.00%,3,00:01:18,0
+(not set),20210130,(not set),Wisconsin,1,1,1,100.00%,1,00:00:00,0
+(not set),20210214,(not set),Wisconsin,1,1,1,0.00%,6,00:18:28,0
+(not set),20210215,(not set),Wisconsin,1,1,1,0.00%,3,00:01:07,0
+(not set),20210201,(not set),California,1,1,1,100.00%,1,00:00:00,0
+(not set),20210209,(not set),Saxony-Anhalt,1,1,1,100.00%,1,00:00:00,0
+(not set),20210202,(not set),Hidalgo,1,1,1,100.00%,1,00:00:00,0
+(not set),20210318,(not set),Colorado,1,1,1,0.00%,2,00:00:20,0
+(not set),20201227,(not set),Utah,1,1,1,100.00%,1,00:00:00,0
+(not set),20201228,(not set),Utah,1,1,1,100.00%,1,00:00:00,0
+(not set),20210117,(not set),Utah,1,1,1,100.00%,1,00:00:00,0
+(not set),20210101,(not set),Louisiana,1,1,1,100.00%,1,00:00:00,0
+(not set),20210218,(not set),Auvergne-Rhone-Alpes,1,1,1,100.00%,1,00:00:00,0
+(not set),20210217,(not set),Texas,1,1,1,100.00%,1,00:00:00,0
+(not set),20210205,(not set),Texas,1,1,1,100.00%,1,00:00:00,0
+(not set),20210301,(not set),Minnesota,1,1,1,100.00%,1,00:00:00,0
+(not set),20210221,(not set),New Jersey,1,1,1,0.00%,2,00:00:08,0
+(not set),20210316,(not set),New Jersey,1,1,2,0.00%,2.5,00:02:35,0
+(not set),20210302,(not set),Utah,1,1,1,0.00%,4,00:03:20,0
+(not set),20210128,(not set),Louisiana,1,1,1,100.00%,1,00:00:00,0
+(not set),20210222,(not set),Vologda Oblast,1,1,4,0.00%,3,00:01:20,0
+(not set),20201228,(not set),Utah,1,1,1,100.00%,1,00:00:00,0
+(not set),20210119,(not set),Utah,1,1,1,100.00%,1,00:00:00,0
+(not set),20201229,(not set),Utah,1,1,1,0.00%,2,00:00:12,0
+(not set),20210101,(not set),Utah,1,1,2,100.00%,1,00:00:00,0
+(not set),20210103,(not set),Utah,1,1,1,0.00%,2,00:00:21,0
+(not set),20210130,(not set),Utah,1,1,1,100.00%,1,00:00:00,0
+(not set),20210212,(not set),Utah,1,1,2,0.00%,4.5,00:01:01,0
+(not set),20210215,(not set),Utah,1,1,1,100.00%,1,00:00:00,0
+(not set),20210315,(not set),Utah,1,1,2,50.00%,1,00:00:04,0
+(not set),20201222,(not set),Utah,1,1,1,100.00%,1,00:00:00,0
+(not set),20210216,(not set),Bavaria,1,1,2,50.00%,1.5,00:00:54,0
+(not set),20201229,(not set),Mississippi,1,1,1,0.00%,3,00:00:17,0
+(not set),20210107,(not set),Louisiana,1,1,1,100.00%,1,00:00:00,0
+(not set),20201227,(not set),Utah,1,1,1,0.00%,7,00:02:24,0
+(not set),20201229,(not set),Utah,1,1,2,100.00%,1,00:00:00,0
+(not set),20210101,(not set),Utah,1,1,1,100.00%,1,00:00:00,0
+(not set),20210119,(not set),Utah,1,1,1,100.00%,1,00:00:00,0
+(not set),20210207,(not set),Utah,1,0,1,100.00%,1,00:00:00,0
+(not set),20210123,(not set),California,1,1,6,100.00%,1,00:00:00,0
+(not set),20210109,(not set),St. Thomas,1,1,1,100.00%,1,00:00:00,0
+(not set),20210113,(not set),California,1,1,1,0.00%,11,00:07:13,1
+(not set),20210211,(not set),Alabama,1,1,1,0.00%,8,00:09:56,1
+Muzaffarnagar,20210108,(not set),Uttar Pradesh,1,1,1,100.00%,1,00:00:00,0
+New Mahe,20210124,(not set),Kerala,1,1,1,100.00%,1,00:00:00,0
+New Mahe,20210125,(not set),Kerala,1,0,2,100.00%,1,00:00:00,0
+Jagtial,20210225,(not set),Telangana,1,1,1,100.00%,1,00:00:00,0
